@@ -21,7 +21,7 @@
 12. Вывести значения a и n 
 13. Конец
 ## Блок-схема
-
+![Блок-схема](https://github.com/Lerik612/domashka8/blob/master/диаграмма8.jpg)
 ## 2. Реализация программы
 ```c
 #define _CRT_SECURE_NO_WARNINGS
